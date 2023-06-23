@@ -3,7 +3,7 @@ Realtime chat application using React, Node.js, Express.js, and Chatengine.io ut
 <br/><br/><br/>
 
 ## NodeJS Server Setup
-* Open a terminal in the ```../server``` directory and enter the following code:
+Open a terminal in the ```../server``` directory and enter the following code:
 ```
 npm init
 npm install express axios cors
@@ -14,7 +14,6 @@ touch index.js
 # Add main code
 npm run start
 ```
-Done! Your REST API is on ```localhost:3001```.
 <br/><br/>
 
 ## React Client Setup
